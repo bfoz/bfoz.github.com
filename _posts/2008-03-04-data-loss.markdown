@@ -1,0 +1,12 @@
+---
+wordpress_id: 31
+layout: post
+title: Data loss
+date: Tue Mar 04 11:18:28 -0800 2008
+wordpress_url: http://bfoz.net/blog/2008/03/04/31/
+---
+I had a hard drive fail in my server a few months back. I thought I had restored everything, but it appears some of the web pages weren't backed up properly. Somehow the [QProg](http://bfoz.net/projects/qprog) page lost an entire year worth of updates.
+
+I was hoping the [WaybackMachine](http://archive.org) would have grabbed it, but apparently it hasn't bothered to archive my site since 2006. I guess I'm just not that important.
+
+Anyway, the QProg page should be mostly reconstructed Real Soon Now.

@@ -1,0 +1,8 @@
+---
+wordpress_id: 10
+layout: post
+title: DB Modernization
+date: Sun Mar 13 22:00:28 -0800 2005
+wordpress_url: http://bfoz.net/blog/2005/03/13/10/
+---
+The DB interface has always bugged me. It started bugging me even more when I started trying to use it as a backend for [TDS](http://terrandev.com/projects/tds/). Then I saw the C++ interface. It must have been created by deranged monkeys on acid. Not that I have a problem with the monekys, its the deranged part that bothers me. After dealing with this for a while I decided enough is enough. The interface is getting in my way so its time to fix it. Thus, [TDB](http://terrandev.com/projects/tdb/) was born. So I've been looking through the [Sleepycat](http://sleepycat.com) DB code tonight...calling those monkeys deranged was a compliment. And a grievous insult to the deranged, and so I humbly appologize to them for my prior statement. I have never seen code this bad before. I don't even know where to start complaining about it. Actually, its a prime example of generic programming and OOP from the days before either existed. Yes, that's right, nothing but #defines and structures full of pointers to functions. (Am I really that old?) There is so much spaghetti it would make an Italian's mouth water. On the other hand, whoever wrote this is very very special, and should probably be given a galactic award for selfless stupidity. Is there such a thing? Somehow I doubt it, the recipients would be too likely to hurt themselves, or someone else. This is going to turn into a total rewrite. If I go mad and start shooting people you'll know why.

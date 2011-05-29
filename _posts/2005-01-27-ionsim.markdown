@@ -1,0 +1,8 @@
+---
+wordpress_id: 8
+layout: post
+title: IonSim
+date: Thu Jan 27 19:24:15 -0800 2005
+wordpress_url: http://bfoz.net/blog/2005/01/27/8/
+---
+A few weekends ago I made a page for a new TDC project called [IonSim](http://terrandev.com/projects/ionsim/). Its going to be a particle simulator for looking at charged particle motion. I'm planning to go with a direct method (probably Runge-Kutta) instead of a statistical method because I think the results will be more accurate. In this modern age of cheap (and networked) computing power the added computational requirements shouldn't be a problem. We'll see.

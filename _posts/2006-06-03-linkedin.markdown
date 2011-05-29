@@ -1,0 +1,10 @@
+---
+wordpress_id: 20
+layout: post
+title: LinkedIn
+date: Sat Jun 03 15:45:25 -0700 2006
+wordpress_url: http://bfoz.net/blog/2006/06/03/20/
+---
+I decided to give [LinkedIn](http://www.linkedin.com/) a try, just for kicks. My profile is [here](http://www.linkedin.com/in/bfosdick). If anybody wants an invite, just let me know. Connections are good too.
+
+The job listings section is huge and appears to be heavily tilted toward the tech sector, not that I have a problem with that. I wonder how many jobs openings are actually filled though [LinkedIn](http://www.linkedin.com/). Is there any way to judge the effectiveness of these social networking sites? It seems like new ones are still being created, even though the initial mania has passed.

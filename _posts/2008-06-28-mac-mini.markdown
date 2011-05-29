@@ -1,0 +1,11 @@
+---
+wordpress_id: 41
+layout: post
+title: Mac Mini
+date: Sat Jun 28 10:16:09 -0700 2008
+wordpress_url: http://bfoz.net/?p=41
+---
+
+After futzing around trying to force the iPhone SDK to run on my aging PowerBook for over a week I finally broke down and just bought a [Mini](http://www.apple.com/macmini/). At first I thought I'd save myself a few bucks buying one on eBay, but I ended up spending more time searching than I would have saved. So, I bought one off Amazon (after the rebate it was cheaper than buying from Apple, even after considering using a friend's discount).
+
+The Mini arrived the other day and I managed to connect it to my 42" LCD through a DVI to HDMI cable (also from Amazon). Surprisingly, the Mini actually supports the full 1920x1080, and the text is actually readable. I'd post a picture but my camera decided to die a few months ago and I still haven't bothered to replace it. Now, if you'll excuse me, I have many amazing and wonderful iPhone apps to write...
