@@ -1,0 +1,23 @@
+---
+layout: default
+title: Brandon Fosdick
+---
+<html>
+	<head>
+		<title>Brandon Fosdick</title>
+		<link rel="stylesheet" href="index.css" type="text/css" />
+	</head>
+
+	<body>
+		<div id="content">
+			{% for post in site.posts %}
+			    <h2>{{ post.title }} - Released {{ post.date }}, {{ post.date | date: '%B %d, %Y' }}</h2>
+			    {{ post.content }}
+
+			{% endfor %}
+		</div>	<!-- id='content' -->
+		<div id='footer'>
+			<h5>&copy; 2008-2011 <a href="mailto:bfoz@bfoz.net">Brandon Fosdick</a></h5>
+		</div>
+	</body>
+</html>
