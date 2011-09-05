@@ -1,4 +1,7 @@
-div.portfolio { width:90%; margin:auto; }
+div#header { width:90%; margin:auto; }
+div#header #title { float:left; }
+div#header .profiles { float:right; }
+div.portfolio { clear: both; width:90%; margin:auto; }
 div.portfolio div.icon { float:left; margin: 1em; margin-top:0; height: 100%; }
 div.portfolio div.icon img { height: 114px; width: 114px; border-radius:18px; }
 
